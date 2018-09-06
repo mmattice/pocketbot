@@ -1,0 +1,11 @@
+{
+    "irc" : { 
+        "server" : "chat.freenode.net",
+        "username" : "pocketbot",
+        "channellist" : "##unregistered",
+        "nickservpass" : ""
+    },
+    "pocket" : {
+        "consumer_key" : null
+    }
+}
